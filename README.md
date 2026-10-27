@@ -11,6 +11,6 @@
 
 | Õppeaine | Mida oskan |
 |---|---|
-| [aine nimi] | [1–2 asja] |
-| [aine nimi] | [1–2 asja] |
-| [aine nimi] | [1–2 asja] |
+| dokumentatsiooni loomine | Kuidas kasutada kontoritarkvara otstarbeliselt |
+| digisisu loomine | kuidas 3d moddelleerida solid edge programmiga ja kuidas 3d printida |
+| Sissejuhatus IT valdkonda ja IT töökoht | olen õppinud arvuti sisemuste kohta ja ka tarkvara kohta, nt kuidas seda kaitsta, paigaldada jne|
