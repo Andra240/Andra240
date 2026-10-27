@@ -1,11 +1,11 @@
-# Tere! Olen [Andra] 👋
+# Tere! Olen Andra
 
-Õpin Haapsalu Kutsehariduskeskuses [IT-d].
+Õpin Haapsalu Kutsehariduskeskuses IT erialal
 
 ## Minust
 
-- Mind huvitab [mis sind IT-s huvitab]
-- Vabal ajal [hobi]
+- Mind huvitab IT
+- Vabal ajal mängin arvutimänge
 
 ## Mida ma olen õppinud
 
